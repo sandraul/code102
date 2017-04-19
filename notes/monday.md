@@ -7,7 +7,3 @@ git push origin master
 git status
 
 git pwd
-
-git add -p
-
-prueba
