@@ -1,4 +1,4 @@
-* Notes for Wednesday
+# Notes for Wednesday
 
 More about git
 

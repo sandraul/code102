@@ -1,3 +1,5 @@
+# Monday notes 
+
 CODE 102  04/17/17
 
 git add -p
